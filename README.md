@@ -46,6 +46,9 @@ python biome_analyzer.py file.biome --frames 100 -v
 
 # GUI Mode
 python biome_analyzer.py --gui
+
+# Bulk Mode
+python biome_bulk_analyzer.py --output-dir ./reports ./Biome
 ```
 
 ### Options
